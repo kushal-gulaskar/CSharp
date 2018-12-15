@@ -15,7 +15,7 @@ namespace Interfacelesson
             FullTimeEmp fte = new FullTimeEmp()
             {
                 ID = 102,
-                FirstName = "Kushal.",
+                FirstName = "Kushal.1",
                 LastName = "Pie",
                 AnnualSalary = 60000
             };
