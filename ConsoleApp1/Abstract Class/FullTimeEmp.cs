@@ -14,5 +14,6 @@ namespace ConsoleApp1
             {
                 return this.AnnualSalary / 12;
             }
+
         }
     }
