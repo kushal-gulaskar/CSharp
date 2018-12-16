@@ -16,7 +16,7 @@ namespace Interfacelesson
             {
                 ID = 102,
                 FirstName = "Kushal Send The Mail Yoooooooooooooo",
-                LastName = "Email Notification Test.1..",
+                LastName = "Gulaskar",
                 AnnualSalary = 60000
             };
 
